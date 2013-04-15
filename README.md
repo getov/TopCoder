@@ -1,4 +1,4 @@
 TopCoder
 ========
-Practicing TopCoder Algorithm SRMs.
+Practicing TopCoder Algorithm Single Round Matches.
 Default language: C++
