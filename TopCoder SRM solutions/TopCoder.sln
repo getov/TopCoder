@@ -63,6 +63,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SRM 290 DIV 2 Level One (25
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SRM 236 DIV 2 Level One (250)", "SRM 236 DIV 2 Level One (250)\SRM 236 DIV 2 Level One (250).vcxproj", "{039FED48-EA4E-4748-8DC4-377A10C9AA90}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SRM 316 DIV 2 Level One (250)", "SRM 316 DIV 2 Level One (250)\SRM 316 DIV 2 Level One (250).vcxproj", "{2C3E17D0-37A1-4D41-B57A-231F9F3C5EAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -193,6 +195,10 @@ Global
 		{039FED48-EA4E-4748-8DC4-377A10C9AA90}.Debug|Win32.Build.0 = Debug|Win32
 		{039FED48-EA4E-4748-8DC4-377A10C9AA90}.Release|Win32.ActiveCfg = Release|Win32
 		{039FED48-EA4E-4748-8DC4-377A10C9AA90}.Release|Win32.Build.0 = Release|Win32
+		{2C3E17D0-37A1-4D41-B57A-231F9F3C5EAE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2C3E17D0-37A1-4D41-B57A-231F9F3C5EAE}.Debug|Win32.Build.0 = Debug|Win32
+		{2C3E17D0-37A1-4D41-B57A-231F9F3C5EAE}.Release|Win32.ActiveCfg = Release|Win32
+		{2C3E17D0-37A1-4D41-B57A-231F9F3C5EAE}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
